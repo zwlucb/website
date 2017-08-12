@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{pub.html}
+= Wenlong Zhang
+
+== Journal Publications
+. N. Byl, W. Zhang, S. Coo, and M. Tomizuka, “Clinical Impact of Gait Training Enhanced with Visual Kinematic Biofeedback: Patients with Parkinson’s Disease and Patients Stable post Stroke”, /Neuropsychologia/, accepted and to appear, 2015.
+. W. Zhang, J. Bae, and M. Tomizuka, "Modified Preview Control for a Wireless Tracking Control System with Packet Loss", /IEEE\/ASME Transactions on Mechatronics/, vol. 20, no. 1, pp. 299-307, 2015.
+. J. Bae, W. Zhang, and M. Tomizuka, "Network-Based Rehabilitation System for Improved Mobility and Tele-Rehabilitation", /IEEE Transactions on Control Systems Technology/, vol. 21, no. 5, pp. 1980-1986, 2013.
+. Y.-H.Wei, Q. Leng, S. Han, A. K. Mok, W. Zhang, and M. Tomizuka, "RT-WiFi: Real-time High Speed Communication Protocol for Wireless Control Systems", /ACM SIGBED Review/, vol. 10, no. 2, pp. 28, 2013.
+. W. Zhang, Y. Chen, and H. Gao, "Energy-to-peak Control for Seismic-excited Buildings with Actuator Faults and Parameter Uncertainties", /Journal of Sound and Vibration/, vol. 330, no. 4, pp. 581-602, 2011.
+. Y. Chen,W. Zhang, H. Gao, "Finite Frequency $H_{\infty}$ Control for Building under Earthquake Excitation", /IFAC Journal of Mechatronics/, vol. 20, no. 1, pp. 128-142, 2010.
+== Conference Papers
+. D. Meyer,W. Zhang, and M. Tomizuka, “Sliding Mode Control for Heart Rate Regulation of Electric Bicycle Riders”, /2015 ASME Dynamic Systems and Control Conference (DSCC)/, accepted and to appear, 2015.
+. Y. Kai, S. Kanno, W. Zhang, and M. Tomizuka, “A Robot Suit with Hardware-based Safety Devices: Frequency Response Analysis of a Velocity-based Safety Device”, in /Proceedings of the 2015 IEEE\/ASME International Conference on Advanced Intelligent Mechatronics (AIM)/, pp. 641-646, 2015.
+. W. Zhang, M. Tomizuka, Y.-H.Wei, Q. Leng, S. Han, and A. K. Mok, “Robust Time Delay Compensation in a Wireless Motion Control System with Double Disturbance Observers”, in /Proceedings of the 2015 American Control Conference (ACC)/, pp. 5294-5299, 2015.
+. W. Zhang, X. Chen, J. Bae, and M. Tomizuka, “Real-time Kinematic Modeling and Prediction of Human Joint Motion in a Networked Rehabilitation System”, in /Proceedings of the 2015 American Control Conference (ACC)/, pp. 5800-5805, 2015.
+. Q. Leng, Y.-H. Wei, S. Han, A. K. Mok, W. Zhang, and M. Tomizuka, "Improving Control Performance by Minimizing Jitter in RT-WiFi Networks", in /Proceedings of the 35th IEEE Real-Time Systems Symposium (RTSS)/, pp. 63-73, 2014.
+. W. Zhang, M. Tomizuka, and N. Byl, "A Wireless Human Motion Monitoring System Based on Joint Angle Sensors and Smart Shoes", in /Proceedings of 2014 ASME Dynamic Systems and Control Conference (DSCC)/, DSCC2014-5976, pp. 1-10, 2014.
+. Y. Kai, S. Kitaguchi, S. Kanno, W. Zhang, and M. Tomizuka, "Development of a Rehabilitation Robot Suit with Velocity and Torque-based Mechanical Safety Devices", in Proceedings of /2014 IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, pp. 1380-1385, 2014.
+. W. Zhang, M.Tomizuka, Y.-H.Wei, Q. Leng, S. Han, and A. K. Mok, "Time Delay Compensation in a Wireless Tracking Control System with Previewed Reference", in /Proceedings of 2014 American Control Conference (ACC)/, pp. 3293-3298, 2014.
+. W. Zhang, M. Tomizuka, and J. Bae, "Time Series Prediction of Knee Joint Movement and Its Application to a Network-based Rehabilitation System", in /Proceedings of 2014 American Control Conference (ACC)/, pp. 4810-4815, 2014.
+. Y.-H. Wei, Q. Leng, S. Han, A. K. Mok,W. Zhang, and M. Tomizuka, "RT-WiFi: Real-Time High-Speed Communication Protocol for Wireless Cyber-Physical Control Applications", in Proceedings of /34th IEEE Real-Time Systems Symposium (RTSS)/, pp. 140-149, 2013. (Best Paper Award)
+. S.-H. Yang, W. Zhang, Y. Wang, and M. Tomizuka, "Fall-prediction Algorithm Using a Neural Network for Safety Enhancement of Elderly", in Proceedings of /2013 CACS International Automatic Control Conference (CACS)/, pp. 245-249, 2013.
+. K. Kanjanapas, Y. Wang, W. Zhang, L. Whittingham, and M. Tomizuka, "A Human Motion Capture System based on Inertial Sensing and A Complementary Filter", in /Proceedings of 2013 ASME Dynamic Systems and Control Conference (DSCC)/, pp. 2142-2150, 2013.
+. W. Zhang and M. Tomizuka, "Compensation of Time Delay in a Network-based Gait Rehabilitation System with a Discrete-time Communication Disturbance Observer", in Proceedings of /2013 IFAC Symposium on Mechatronic Systems/, pp. 555-562, 2013.
+. Y. Kai, S. Kitaguchi, W. Zhang, and M. Tomizuka, "Design of a Rehabilitation Robot Suit with Hardware-based Safety Devices: Proposal of the Basic Structure", in /Proceedings of the 18th International Symposium on Artificial Life and Robotics/, pp. 585-588, 2013.
+. W. Zhang, X. Zhu, S. Han, N. Byl, A. K. Mok, and M. Tomizuka, "Design of a Network-based Mobile Gait Rehabilitation System", in /Proceedings of 2012 IEEE International Conference on Robotics and Biomimetics (ROBIO)/, pp. 1773-1778, 2012.
+. W. Zhang, J. Bae, and M. Tomizuka, "Modified Preview Control for a Wireless Tracking Control System with Packet Loss", in Proceedings of /2012 ASME Dynamic System and Control Conference (DSCC)/, pp. 2524-2533, 2012. (Semi-Plenary Paper Award Finalist)
+. J. Bae, W. Zhang, and M.Tomizuka, "Compensation of Packet Loss for a Network-Based Rehabilitation System", in /Proceedings of 2012 IEEE International Conference on Robotics and Automation (ICRA)/, pp. 2413-2418, 2012.
+== Posters and Invited Talks
+. W. Zhang, “A Wireless Human Motion Monitoring System: from Mechatronics to Rehabilitation”, /Computer Science Colloquium, Department of Computer Science and Engineering, University of Connecticut/, Storrs, CT, USA, Nov. 21, 2014.
+. W. Zhang and M. Tomizuka, “Human Gait Monitoring and Analysis Based on Wireless Body Sensor Network”, /2014 Mechanical Engineering External Advisory Board Meeting (Poster Session)/, Berkeley, CA, USA, Oct. 7, 2014.
+. W. Zhang, C.-Y. Chan, M. Tomizuka, and N. Byl, “Human Gait Monitoring and Analysis Based on Wireless Body Sensor Network”, /2014 USA Science and Engineering Festival (Poster Session and Live Demo)/, Washington, DC, USA, Apr. 25 - Apr. 27, 2014.
+. W. Zhang, Y.-H.Wei, Q. Leng, S. Han, M. Tomizuka, and A. K. Mok, “Towards Building a High-speed Real-time Mobile Gait Rehabilitation System”, /1st Smart America Challenge Workshop/, Washington, DC, USA, Dec. 12, 2013.
+. W. Zhang and M. Tomizuka, “A Network-based Rehabilitation System - from Mechatronics to Healthcare”, /2012 Mechanical Engineering External Advisory Board Meeting (Poster Session)/, Berkeley, CA, USA, Oct. 5, 2012.
+. W. Zhang, J. Bae, M. Tomizuka, X. Zhu, A. K. Mok, and N. Byl, “Monitoring and Mobility Assistance with Wireless Body Sensor Network and Mechatronic Actuation”, /2012 NSF CMMI Engineering Research and Innovation Conference (Poster Session)/, Boston, MA, USA, Jul. 9 - Jul. 11, 2012.
+. W. Zhang and M. Tomizuka, “Network-based Health Monitoring System - from Mechatronics to Rehabilitation”, /1st International Workshop between University of California, Berkeley and Keio University/, Berkeley, CA, USA, Feb. 27, 2012.
+== Non-refereed Publications
+. W. Zhang, Y.-H.Wei, Q. Leng, and S. Han, "A High-speed Real-time Mobile Gait Rehabilitation System", /ACM XRDS - The ACM Magazine for Students/, vol. 20, no. 3, pp. 46-51, 2014.

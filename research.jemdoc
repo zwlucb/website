@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{research.html}
+= Wenlong Zhang
+
+== Sensing, Control, and Analysis of Networked and Multi-Agent Systems
+Modern engineering systems are expected to provide service far beyond the capability of a single machine. As a consequence, many individuals will have to work collaboratively to achieve an advanced task. However, challenges arise in the case where many agents interact with each other. Moreover, the agent could be either a machine or a human subject, which makes the decision making and control system design very complicated. In this project, fundamental challenges of designing such systems are investigated. We envision this research will provide methodologies for designing various engineering systems, including industrial process control systems, autonomous vehicles, and human-robot collaboration team.
+=== High-level perception and decision making
+- Sensing and perception of an individual agent
+- Modeling of interactions between agents
+- Decision making and planning of agents
+- Safety, robustness, and resilience of multi-agent systems   
+=== Low-level networked motion control
+- Network scheduling
+- Time delay compensation
+- Packet loss compensation
+== Gait Analysis and Control of Assistive Robot for Nerual Rehabilitation
+Our society is witnessing a quick demand increase of gait physical therapy due to neurological impairments. It is suggested that introducing sensors and robotic assistive devices could improve the performance of rehabilitation training. This research aims at developing advanced sensing, control, and data analysis techniques to deeply understand the process of robot-aided rehabilitation and properly determine the level of assistance to be provided to the human subject to optimize the training effectiveness.
+=== Gait analysis
+- Sensor design and gait analysis
+- Disease diagnosis and evaluation
+- Clinical evaluation of biofeedback
+- Human motion intension estimation\/localization based on sensory data
+=== Design and control of assistive robots
+- Design of mobile assistive robots
+- Trajectory planning of assistive robots
+- Low-level precision motion control
+- Safety guarantee and analysis of human-robot interactions 
+
+
